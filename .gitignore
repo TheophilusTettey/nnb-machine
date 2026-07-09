@@ -1,0 +1,47 @@
+# OS / editor
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+
+# Local config with absolute paths (use config.example.yaml)
+nnb_pipeline/config.yaml
+
+# Generated analysis outputs (validation summaries live in docs/validation/)
+nnb_analysis_output/*
+!nnb_analysis_output/.gitkeep
+
+# Unrelated project materials (JCI / HPA / revisions)
+hpa_analysis_output/
+revision_materials/
+generate_hpa_report.py
+*.pdf
+~$*
+*.docx
+*.xlsx
+*.lsm
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Training feature cache (regenerate with train_qc_model.py)
+nnb_pipeline/models/qc_classifier.training_data.csv
+
+# Local dev / validation scripts (not part of the published package)
+generate_nnb_report.py
+run_nnb_pipeline.py
+validate_machine.py
+fit_all_rois.sh
+publish_to_github.sh
+docs/validation/
+NnB_Machine_Manual.md
+run_pubmed_benchmark.py
+nnb_pipeline/pubmed_benchmark.py
+nnb_pipeline/benchmark_datasets.yaml
+nnb_pipeline/nandb_benchmark.py

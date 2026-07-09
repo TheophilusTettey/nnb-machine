@@ -1,0 +1,14 @@
+{
+  "n_samples": 201,
+  "n_included": 179,
+  "n_excluded": 22,
+  "cv_accuracy": 0.8507462686567164,
+  "train_accuracy": 1.0,
+  "thresholds": {
+    "accuracy": 1.0,
+    "include_threshold": 0.20000000000000004,
+    "exclude_threshold": 0.05,
+    "n_review_at_thresholds": 11
+  },
+  "model_path": "nnb_pipeline/models/qc_classifier.joblib"
+}
