@@ -3,6 +3,7 @@
 ## Cite this software
 
 Theophilus T. Tettey (2026). **N&B Machine** — automated Number & Brightness analysis for Zeiss `.lsm` movies.  
+https://doi.org/10.5281/zenodo.21284195  
 https://github.com/TheophilusTettey/nnb-machine
 
 ---

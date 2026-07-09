@@ -1,5 +1,7 @@
 # N&B Machine
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21284195.svg)](https://doi.org/10.5281/zenodo.21284195)
+
 © 2026 Theophilus T. Tettey
 
 Open-source software for automated **Number & Brightness** analysis of Zeiss `.lsm` movies (movie QC → I–B gating → per-cell **B** and **ε**).
@@ -140,7 +142,8 @@ python3 run_nnb_machine.py --session MY_SESSION --conditions MONOMER MUTANT_A
 
 ## Cite
 
-Theophilus T. Tettey (2026) N&B Machine. https://github.com/TheophilusTettey/nnb-machine  
+Theophilus T. Tettey (2026) N&B Machine. https://doi.org/10.5281/zenodo.21284195  
+GitHub: https://github.com/TheophilusTettey/nnb-machine
 See [REFERENCES.md](REFERENCES.md) and [CITATION.cff](CITATION.cff).
 
 MIT License — [LICENSE](LICENSE)

@@ -7,9 +7,10 @@ authors:
     given-names: Theophilus T.
 repository-code: https://github.com/TheophilusTettey/nnb-machine
 url: https://github.com/TheophilusTettey/nnb-machine
+doi: 10.5281/zenodo.21284195
 license: MIT
 version: 1.0.0
-date-released: 2026-01-01
+date-released: 2026-07-09
 keywords:
   - Number and Brightness
   - fluorescence microscopy
@@ -22,4 +23,5 @@ preferred-citation:
       given-names: Theophilus T.
   title: N&B Machine
   year: 2026
+  doi: 10.5281/zenodo.21284195
   url: https://github.com/TheophilusTettey/nnb-machine
