@@ -2,26 +2,34 @@ cff-version: 1.2.0
 title: N&B Machine
 message: If you use this software, please cite it using the metadata from this file.
 type: software
+
 authors:
   - family-names: Tettey
     given-names: Theophilus T.
+
 repository-code: https://github.com/TheophilusTettey/nnb-machine
 url: https://github.com/TheophilusTettey/nnb-machine
 doi: 10.5281/zenodo.21284195
 license: MIT
-version: 1.0.0
-date-released: 2026-07-09
+version: "1.0.0"
+date-released: "2026-07-09"
+
 keywords:
   - Number and Brightness
   - fluorescence microscopy
   - oligomerization
   - live-cell imaging
+
 preferred-citation:
   type: software
   authors:
     - family-names: Tettey
       given-names: Theophilus T.
   title: N&B Machine
+  version: "1.0.0"
+  date-released: "2026-07-09"
   year: 2026
   doi: 10.5281/zenodo.21284195
-  url: https://github.com/TheophilusTettey/nnb-machine
+  url: https://doi.org/10.5281/zenodo.21284195
+  publisher:
+    name: Zenodo
